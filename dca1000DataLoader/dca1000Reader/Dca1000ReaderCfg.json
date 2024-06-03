@@ -1,0 +1,18 @@
+{
+  "connParams": {
+    "localIP": "192.168.33.30",
+    "netMask": "255.255.255.0",
+    "dataPort": 4098
+  },
+  "dcaPacketParams": {
+    "dcaPacketPyloadSize": 1456,
+    "dcaPacketHeaderSize": 10
+  },
+  "dataParams": {
+  "txNum": 3,
+  "rxNum": 4,
+  "sampleNum": 256,
+  "chirpNum": 32,
+  "format": 2
+  }
+}

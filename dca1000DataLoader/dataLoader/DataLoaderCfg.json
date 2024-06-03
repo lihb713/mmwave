@@ -1,0 +1,13 @@
+{
+  "packetFormatParams": {
+    "pyloadSize": 1456,
+    "headerSize": 10
+  },
+  "dataFormatParams": {
+  "txNum": 3,
+  "rxNum": 4,
+  "sampleNum": 256,
+  "chirpNum": 32,
+  "format": 2
+  }
+}
